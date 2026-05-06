@@ -1,10 +1,10 @@
-<div align=center> 
+<div align=center>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugo-sid/hugo-blog-awesome/main/assets/icons/book-icon-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugo-sid/hugo-blog-awesome/main/assets/icons/book-icon-light.svg">
   <img alt="Hugo blog awesome logo" src="https://raw.githubusercontent.com/hugo-sid/hugo-blog-awesome/feat/logo-change/assets/icons/book-icon-light.svg" />
 </picture>
- 
+
 </div>
 <h1 align=center> Hugo Blog Awesome | <a href="https://hba.sid.one" target="_blank" rel="nofollow">Demo link</a></h1>
 
@@ -57,6 +57,7 @@ First create a new Hugo site by running the following command:
 
 Initialize your new Hugo site as hugo module by running the following command:
 
+    cd myblog
     hugo mod init github.com/USER/REPO
 
 Afterwards, run this command to add hugo-blog-awesome as module to your site:
@@ -86,6 +87,7 @@ Then, clone this repository into the `themes` directory of your new site:
 
 To preview the theme with example content, run the following command from the `exampleSite` directory:
 
+    cd themes/hugo-blog-awesome/exampleSite
     hugo server --themesDir ../..
 
 To use this theme, set the `theme` variable in your site's `hugo.toml` to `hugo-blog-awesome`:
@@ -118,7 +120,7 @@ url = "https://twitter.com"
 
 [[params.socialIcons]]
 name = "Rss"
-url = "index.xml"
+url = "/index.xml"
 ```
 
 <details>
@@ -128,25 +130,32 @@ url = "index.xml"
 | --------------- | ------------------------------- |
 | `123rf`         | 123rf.com                       |
 | `adobestock`    | stock.adobe.com                 |
+| `anilist`       | anilist.co                      |
 | `applemusic`    | music.apple.com                 |
+| `applepodcasts` | podcasts.apple.com              |
 | `behance`       | behance.net                     |
 | `bilibili`      | bilibili.com                    |
 | `bitcoin`       | -                               |
 | `bluesky`       | bsky.app                        |
 | `buymeacoffee`  | buymeacoffee.com                |
+| `calendly`      | calendly.com                    |
+| `codeforces`    | codeforces.com                  |
 | `codepen`       | codepen.io                      |
 | `cryptohack`    | cryptohack.org                  |
 | `ctftime`       | ctftime.org                     |
 | `cv`            | -                               |
 | `deezer`        | deezer.com                      |
 | `dev`           | dev.to                          |
+| `deviantart`    | deviantart.com                  |
 | `discogs`       | discogs.com                     |
 | `discord`       | discord.com                     |
 | `dreamstime`    | dreamstime.com                  |
 | `dribbble`      | dribbble.com                    |
+| `douban`        | douban.com                      |
 | `email`         | -                               |
 | `facebook`      | facebook.com                    |
 | `flickr`        | flickr.com                      |
+| `forgejo`       | forgejo.org/                    |
 | `freepik`       | freepik.com                     |
 | `gitea`         | gitea.io                        |
 | `github`        | github.com                      |
@@ -159,19 +168,21 @@ url = "index.xml"
 | `hackthebox`    | hackthebox.eu                   |
 | `instagram`     | instagram.com                   |
 | `itchio`        | itch.io                         |
-| `kaggle`        | -                               |
+| `kaggle`        | kaggle.com                      |
 | `kakaotalk`     | kakaocorp.com/service/KakaoTalk |
 | `key`           | -                               |
 | `keybase`       | keybase.io                      |
 | `kofi`          | ko-fi.com                       |
-| `komoot`        | -                               |
+| `komoot`        | komoot.com                      |
 | `lastfm`        | last.fm                         |
-| `letterboxd`    | -                               |
+| `leetcode`      | leetcode.com                    |
+| `letterboxd`    | letterboxd.com                  |
 | `liberapay`     | liberapay.com                   |
 | `linkedin`      | linkedin.com                    |
 | `mastodon`      | mastodon.social                 |
 | `matrix`        | matrix.org                      |
 | `medium`        | medium.com                      |
+| `microblog`     | micro.blog                      |
 | `monero`        | -                               |
 | `mixcloud`      | mixcloud.com                    |
 | `nuget`         | nuget.org                       |
@@ -181,6 +192,7 @@ url = "index.xml"
 | `phone`         | -                               |
 | `ploywork`      | ploywork.com                    |
 | `qq`            | qq.com                          |
+| `radicle`       | radicle.xyz                     |
 | `reddit`        | reddit.com                      |
 | `researchgate`  | researchgate.net                |
 | `rss`           | -                               |
@@ -190,21 +202,25 @@ url = "index.xml"
 | `signal`        | signal.org                      |
 | `slack`         | slack.com                       |
 | `snapchat`      | snapchat.com/add                |
+| `speakerdeck`   | speakerdeck.com                 |
 | `spotify`       | spotify.com                     |
 | `stackoverflow` | stackoverflow.com               |
 | `stackshare`    | stackshare.io                   |
 | `steam`         | steampowered.com                |
 | `strava`        | strava.com                      |
 | `telegram`      | telegram.org                    |
+| `threads`       | threads.net                     |
 | `tiktok`        | tiktok.com                      |
 | `twitch`        | twitch.tv                       |
-| `twitter` (the blue bird logo)       | twitter.com                     |
+| `twitter` (the blue bird logo) | twitter.com      |
 | `unsplash`      | unsplash.com                    |
-| `x` (formerly Twitter)             | x.com                           |
+| `x` (formerly Twitter) | x.com                    |
 | `xda`           | xda-developers.com              |
 | `xing`          | xing.com                        |
 | `ycombinator`   | ycombinator.com                 |
 | `youtube`       | youtube.com                     |
+| `zhihu`         | zhihu.com                       |
+| `zulip`         | zulip.com                       |
 | `other`         | -                               |
 
 </details>
@@ -219,6 +235,11 @@ To enable go to top button on blog posts, set `goToTop` to `true` in `hugo.toml`
 [params]
   goToTop = true
 ```
+
+### Add custom HTML to `<head>` section
+
+To add custom HTML to the `<head>` section, create a partial named `custom-head.html`.
+The contents of this partial will be inserted at the end of the `<head>` section.
 
 ## Content
 
@@ -259,18 +280,23 @@ If you are using this theme for any website, feel free to list the website here.
 - <https://mrizkimaulidan.vercel.app/>
 - <https://www.yukizr.com/>
 - <http://liamdalg.co.uk/>
+- <https://codewithzichen.bine.me/>
 - <https://chriscodes.net/>
 - <https://journeytolunar.com/>
 - <https://ruiper.es/>
-- <https://www.magicplace.de/>
-- <https://bskdany.com/>
 - <https://josephscottcampbell.com/>
 - <https://heckintosh.github.io/>
 - <https://dieter.plaetinck.be/>
-- <https://jmbhughes.com/>
 - <https://www.boniface.me/>
 - <https://meanii.dev/>
 - <https://unixsec.io/>
+- <https://blog.crisweb.com/>
+- <https://jonblack.gg/>
+- <https://viazure.cc/>
+- <https://spikethedragon40k.github.io/>
+- <https://tk-web.top>
+- <https://xayan.nu/>
+- <https://danielecer.com/>
 
 ## Support
 

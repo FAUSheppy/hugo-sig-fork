@@ -1,5 +1,101 @@
 # Changelog
 
+## [1.21.0](https://github.com/hugo-sid/hugo-blog-awesome/compare/v1.20.0...v1.21.0) (2025-11-01)
+
+
+### :sparkles: Features
+
+* add Forgejo icon ([#303](https://github.com/hugo-sid/hugo-blog-awesome/issues/303)) ([841dff0](https://github.com/hugo-sid/hugo-blog-awesome/commit/841dff0d9c7566ea9176d4a16f03fb18f0db2219))
+* add icon for Speakerdeck ([#319](https://github.com/hugo-sid/hugo-blog-awesome/issues/319)) ([73da284](https://github.com/hugo-sid/hugo-blog-awesome/commit/73da28441d3a7276f1c239f5edd009249362a214))
+* add Japanese language ([#297](https://github.com/hugo-sid/hugo-blog-awesome/issues/297)) ([efa15fb](https://github.com/hugo-sid/hugo-blog-awesome/commit/efa15fb3fa5d3b1796ec6e0e806ebbca9f98bbcd))
+* add zulip icon, re-order icons alphabetically, update icon list in readme ([#318](https://github.com/hugo-sid/hugo-blog-awesome/issues/318)) ([664b225](https://github.com/hugo-sid/hugo-blog-awesome/commit/664b22544df9b0c67ba5d81605612b01773e597a))
+* declare support for light and dark theme in `&lt;head&gt;` ([#315](https://github.com/hugo-sid/hugo-blog-awesome/issues/315)) ([f5c6e01](https://github.com/hugo-sid/hugo-blog-awesome/commit/f5c6e01b7ccbef68f1410d6dac8412116427d0ad))
+
+
+### :hammer: Housekeeping
+
+* add Adriano's website ([#302](https://github.com/hugo-sid/hugo-blog-awesome/issues/302)) ([0744297](https://github.com/hugo-sid/hugo-blog-awesome/commit/07442970878c53caff71988b1975d725f34847de))
+* add https://tk-web.top to the list of sites using this theme ([#305](https://github.com/hugo-sid/hugo-blog-awesome/issues/305)) ([2ff8352](https://github.com/hugo-sid/hugo-blog-awesome/commit/2ff83524b22210df9b9f83638a0acbd1913ee6d4))
+* **deps:** update actions/checkout action to v5 ([#324](https://github.com/hugo-sid/hugo-blog-awesome/issues/324)) ([b4c1aaa](https://github.com/hugo-sid/hugo-blog-awesome/commit/b4c1aaa30512dc3c28f69779bc51d5f8f1b6c4c3))
+* **deps:** update actions/stale action to v10 ([#326](https://github.com/hugo-sid/hugo-blog-awesome/issues/326)) ([79497ca](https://github.com/hugo-sid/hugo-blog-awesome/commit/79497cac3820cddea475a79737ed59a0cf6774f7))
+* **deps:** update actions/upload-artifact action to v5 ([#329](https://github.com/hugo-sid/hugo-blog-awesome/issues/329)) ([3ff9930](https://github.com/hugo-sid/hugo-blog-awesome/commit/3ff99307c5df53ff5235f4511c29ef3cce97efa2))
+* **deps:** update github/codeql-action action to v3.28.16 ([#296](https://github.com/hugo-sid/hugo-blog-awesome/issues/296)) ([38f952e](https://github.com/hugo-sid/hugo-blog-awesome/commit/38f952ed340b013c19e08306a7edffe61db5053e))
+* **deps:** update github/codeql-action action to v4 ([#327](https://github.com/hugo-sid/hugo-blog-awesome/issues/327)) ([182d7bb](https://github.com/hugo-sid/hugo-blog-awesome/commit/182d7bb0a94662e82863e3c401c87c6240f672f3))
+* **README:** add `xayan.nu` to the list of websites using this theme ([#321](https://github.com/hugo-sid/hugo-blog-awesome/issues/321)) [skip ci] ([39fdcdd](https://github.com/hugo-sid/hugo-blog-awesome/commit/39fdcddfe7ddc7b94023a2f7005162a37a766c8f))
+* **README:** add danielecer.com to list of websites using theme ([#316](https://github.com/hugo-sid/hugo-blog-awesome/issues/316)) ([4719dd6](https://github.com/hugo-sid/hugo-blog-awesome/commit/4719dd658ce010c63ba223c6b2236554f1f1b6a6))
+
+## [1.20.0](https://github.com/hugo-sid/hugo-blog-awesome/compare/v1.19.1...v1.20.0) (2025-03-22)
+
+
+### :sparkles: Features
+
+* Add Chinese language support ([#291](https://github.com/hugo-sid/hugo-blog-awesome/issues/291)) ([763bcc9](https://github.com/hugo-sid/hugo-blog-awesome/commit/763bcc96a697e7ee8d61f0c05a543e6e6f985e97))
+
+
+### :hammer: Housekeeping
+
+* add Calendly (calendly.com) social icon ([#293](https://github.com/hugo-sid/hugo-blog-awesome/issues/293)) ([fd47b24](https://github.com/hugo-sid/hugo-blog-awesome/commit/fd47b2419c083bb3098a42e53e0727ac91908e69))
+* add LeetCode (leetcode.com) social icon ([#294](https://github.com/hugo-sid/hugo-blog-awesome/issues/294)) ([ea68b1f](https://github.com/hugo-sid/hugo-blog-awesome/commit/ea68b1fe35e9d18e292584c07c27b0112ca43f2c))
+* add new site to the readme + remove several that no longer use the theme ([#290](https://github.com/hugo-sid/hugo-blog-awesome/issues/290)) ([b06d22f](https://github.com/hugo-sid/hugo-blog-awesome/commit/b06d22f9c52e58a0a294cfdc41aca3431e012560))
+* **deps:** update actions/upload-artifact action to v4.6.2 ([#275](https://github.com/hugo-sid/hugo-blog-awesome/issues/275)) ([a053938](https://github.com/hugo-sid/hugo-blog-awesome/commit/a0539385157909b377c97714bbd40ec3ad8cfac9))
+* **deps:** update eps1lon/actions-label-merge-conflict digest to 1df065e ([#274](https://github.com/hugo-sid/hugo-blog-awesome/issues/274)) ([681d9c9](https://github.com/hugo-sid/hugo-blog-awesome/commit/681d9c94c76d31d571b091dbe19dc3a30757ae5c))
+* update reference to Hugo time format method ([6496bec](https://github.com/hugo-sid/hugo-blog-awesome/commit/6496bec291566f57a230ffda23411c842e3f4e24))
+
+## [1.19.1](https://github.com/hugo-sid/hugo-blog-awesome/compare/v1.19.0...v1.19.1) (2025-03-05)
+
+
+### :bug: Bug Fixes
+
+* align author image display size & actual size ([#284](https://github.com/hugo-sid/hugo-blog-awesome/issues/284)) ([a919504](https://github.com/hugo-sid/hugo-blog-awesome/commit/a919504a4ae88300e9eacd1cf6b1ba1e10d7cdd0))
+* off-centre author avatars ([#282](https://github.com/hugo-sid/hugo-blog-awesome/issues/282)) ([2a5cb15](https://github.com/hugo-sid/hugo-blog-awesome/commit/2a5cb1571595a35744c412f4b5dd30f42c139f0f))
+
+
+### :hammer: Housekeeping
+
+* add blog.crisweb.com as using this theme ([#281](https://github.com/hugo-sid/hugo-blog-awesome/issues/281)) ([c4a6784](https://github.com/hugo-sid/hugo-blog-awesome/commit/c4a6784e1784c160355cafbde149e41ab14f6b0b))
+* add Radicle SVG ([#285](https://github.com/hugo-sid/hugo-blog-awesome/issues/285)) ([57d9831](https://github.com/hugo-sid/hugo-blog-awesome/commit/57d9831cda136d1104d95d0b32a3635b43a81d11))
+* **deps:** update actions/upload-artifact action to v4.5.0 ([#265](https://github.com/hugo-sid/hugo-blog-awesome/issues/265)) ([5056c6e](https://github.com/hugo-sid/hugo-blog-awesome/commit/5056c6e187d4c2943449459ec693660314cca2b4))
+* update RSS config on README.md ([34b20f3](https://github.com/hugo-sid/hugo-blog-awesome/commit/34b20f35bbc89d92a98fdcdb8eb6124b02ad409a)), closes [#287](https://github.com/hugo-sid/hugo-blog-awesome/issues/287)
+
+## [1.19.0](https://github.com/hugo-sid/hugo-blog-awesome/compare/v1.18.0...v1.19.0) (2024-12-14)
+
+
+### :sparkles: Features
+
+* add threads social media icon ([#255](https://github.com/hugo-sid/hugo-blog-awesome/issues/255)) ([090b3e8](https://github.com/hugo-sid/hugo-blog-awesome/commit/090b3e825c7f343f6297b1897d39ff039cdbf70d))
+
+
+### :bug: Bug Fixes
+
+* corrected French translations in Markdown guide and i18n file ([#263](https://github.com/hugo-sid/hugo-blog-awesome/issues/263)) ([42095be](https://github.com/hugo-sid/hugo-blog-awesome/commit/42095be803c344e9e774f632b929e8e59944d688))
+
+
+### :hammer: Housekeeping
+
+* add `Multilingual` tag to `theme.toml` [skip ci] ([ac5a2ab](https://github.com/hugo-sid/hugo-blog-awesome/commit/ac5a2ab1eb4b939d1227ed81f0d1c74e4e4b7a4a))
+* **deps:** update codelytv/pr-size-labeler action to v1.10.2 ([#259](https://github.com/hugo-sid/hugo-blog-awesome/issues/259)) ([2391188](https://github.com/hugo-sid/hugo-blog-awesome/commit/239118849cac93a0f21b8e21caea453234a1df12))
+* **readme:** add website to readme ([#261](https://github.com/hugo-sid/hugo-blog-awesome/issues/261)) ([2ea9420](https://github.com/hugo-sid/hugo-blog-awesome/commit/2ea9420ec896e37db98c1d49d392c6eabe0e06ac))
+* update devcontainer.json ([#264](https://github.com/hugo-sid/hugo-blog-awesome/issues/264)) ([19cf68f](https://github.com/hugo-sid/hugo-blog-awesome/commit/19cf68f5c47d498432d5f01c8bcf56b2321cfae4))
+
+
+### :memo: Documentation
+
+* add missing `chdir` commands in setup section ([#247](https://github.com/hugo-sid/hugo-blog-awesome/issues/247)) ([#250](https://github.com/hugo-sid/hugo-blog-awesome/issues/250)) ([e35e758](https://github.com/hugo-sid/hugo-blog-awesome/commit/e35e75800f96cc00c8f0923618eec5f96711b8f7))
+
+## [1.18.0](https://github.com/hugo-sid/hugo-blog-awesome/compare/v1.17.0...v1.18.0) (2024-10-28)
+
+
+### :sparkles: Features
+
+* **i18n:** add French translation ([#241](https://github.com/hugo-sid/hugo-blog-awesome/issues/241)) ([f26d7a2](https://github.com/hugo-sid/hugo-blog-awesome/commit/f26d7a228e9fa4dcd8d6c7c4f8a53a1a8c33f73b))
+* support user-supplied head partial ([#244](https://github.com/hugo-sid/hugo-blog-awesome/issues/244)) ([6b0e47a](https://github.com/hugo-sid/hugo-blog-awesome/commit/6b0e47ad2c053b8d8b40e83f74ad7387641ca8a0))
+
+
+### :hammer: Housekeeping
+
+* **deps:** update actions/checkout action to v4.2.2 ([#243](https://github.com/hugo-sid/hugo-blog-awesome/issues/243)) ([21b814b](https://github.com/hugo-sid/hugo-blog-awesome/commit/21b814bb08c22f033f22dd021a392af7b0a6b6a7))
+* **deps:** update actions/upload-artifact action to v4.4.3 ([#242](https://github.com/hugo-sid/hugo-blog-awesome/issues/242)) ([2dfc5c9](https://github.com/hugo-sid/hugo-blog-awesome/commit/2dfc5c9ab79b0a16f31620a4d47f9404384a3f11))
+
 ## [1.17.0](https://github.com/hugo-sid/hugo-blog-awesome/compare/v1.16.1...v1.17.0) (2024-09-26)
 
 
